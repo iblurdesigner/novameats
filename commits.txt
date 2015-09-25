@@ -1,3 +1,15 @@
+commit 4d1fc822aa7424fdd7bdb89666d2a67fe40ef80d
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Sep 18 15:10:38 2015 -0500
+
+    se elimino el link a mogroup y el logo
+
+commit b6b0542bac344ec2043d0c89f2279594b7131a01
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Sep 18 15:05:29 2015 -0500
+
+    primer commit
+
 commit 67969857c29b9f5d29b5570f38de42bd14260a96
 Author: iblurdesigner <nevomen@gmail.com>
 Date:   Fri Sep 18 14:54:12 2015 -0500
